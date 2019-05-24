@@ -1,6 +1,6 @@
 # Factory Method  
 
-Creational pattern  
+**Creational pattern**
 
 More information about this pattern: [https://refactoring.guru/design-patterns/factory-method](https://refactoring.guru/design-patterns/factory-method)  
 
@@ -36,4 +36,4 @@ $ java Main
 
 * **Tiago Mendes**: [tiagocmendes](https://github.com/tiagocmendes)  
 
-**Last updated: May 24, 2019**  
+**Last updated:** *May 24, 2019*
