@@ -21,7 +21,7 @@ Implement the factory method design pattern to create different means of transpo
 
 # UML Diagram  
 
-![factory-method](./factor_method.png)  
+![factory-method](./factory_method.png)  
 
 # How to run  
 
