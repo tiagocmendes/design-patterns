@@ -4,7 +4,7 @@
 
 More information about this pattern: [https://refactoring.guru/design-patterns/factory-method](https://refactoring.guru/design-patterns/factory-method)  
 
-# Exercise  
+## Exercise  
 
 Implement the factory method design pattern to create different means of transport to deliver different products.  
 
