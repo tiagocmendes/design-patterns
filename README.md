@@ -5,7 +5,7 @@ This repository contains the most known software design patterns, using Java pro
 ## Creational patterns  
 
 **Class**  
-* [x] Factory Method  
+* [✅] Factory Method  
 
 **Object**  
 * [ ] Abstract Factory  
