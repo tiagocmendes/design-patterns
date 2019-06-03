@@ -5,42 +5,42 @@ This repository contains the most known software design patterns, using Java pro
 ## Creational patterns  
 
 **Class**  
-* Factory Method  
+* [x] Factory Method  
 
 **Object**  
-* Abstract Factory  
-* Builder  
-* Singleton  
-* Object Pool  
-* Prototype  
+* [ ] Abstract Factory  
+* [ ] Builder  
+* [ ] Singleton  
+* [ ] Object Pool  
+* [ ] Prototype  
 
 ## Structural patterns  
 
 **Class**  
-* Adapter  
+* [ ] Adapter  
 
 **Object**  
-* Bridge  
-* Composite  
-* Decorator  
-* Facade  
-* Flyweight  
-* Proxy  
+* [ ] Bridge  
+* [ ] Composite  
+* [ ] Decorator  
+* [ ] Facade  
+* [ ] Flyweight  
+* [ ] Proxy  
 
 ## Behavioral Patterns  
 
-* Chain of Responsibility  
-* Command  
-* Interpreter  
-* Iterator  
-* Mediator  
-* Memento  
-* Null Object  
-* Observer  
-* State  
-* Strategy  
-* Template Method  
-* Visitor  
+* [ ] Chain of Responsibility  
+* [ ] Command  
+* [ ] Interpreter  
+* [ ] Iterator  
+* [ ] Mediator  
+* [ ] Memento  
+* [ ] Null Object  
+* [ ] Observer  
+* [ ] State  
+* [ ] Strategy  
+* [ ] Template Method  
+* [ ] Visitor  
 
 ## References  
 
