@@ -1,14 +1,14 @@
 # Factory Method  
 
-Creational pattern  
+**Creational pattern**
 
 More information about this pattern: [https://refactoring.guru/design-patterns/factory-method](https://refactoring.guru/design-patterns/factory-method)  
 
-# Exercise  
+## Exercise  
 
 Implement the factory method design pattern to create different means of transport to deliver different products.  
 
-# Classes developed  
+## Classes developed  
 
 * **Main.java** - Client application
 * **Transport.java** - Interface of concrete means of transport
@@ -19,11 +19,11 @@ Implement the factory method design pattern to create different means of transpo
 * **RoadLogistics.java** - Concrete truck creator
 * **Product.java** - Product to deliver class  
 
-# UML Diagram  
+## UML Diagram  
 
 ![factory-method](./factory_method.png)  
 
-# How to run  
+## How to run  
 
 * On factory-method directory, open a terminal and type:  
 ```console
@@ -32,8 +32,8 @@ $ cd bin
 $ java Main
 ```  
 
-# Authors  
+## Authors  
 
 * **Tiago Mendes**: [tiagocmendes](https://github.com/tiagocmendes)  
 
-**Last updated: May 24, 2019**  
+**Last updated:** *May 24, 2019*
