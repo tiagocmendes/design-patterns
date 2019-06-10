@@ -10,7 +10,7 @@ This repository contains the most known software design patterns, using Java pro
 **Object**  
 &#9745; Abstract Factory  
 &#9745; Builder  
-* [ ] Singleton  
+&#9745; Singleton  
 * [ ] Object Pool  
 * [ ] Prototype  
 

@@ -1,4 +1,4 @@
-# Builder
+# Singleton
 
 **Creational pattern**  
 
@@ -10,7 +10,7 @@
 
 ## How to run  
 
-* On builder directory, open a terminal and type:  
+* On singleton directory, open a terminal and type:  
 ```console
 $ javac *.java -d bin
 $ cd bin
