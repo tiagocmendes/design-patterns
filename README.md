@@ -12,7 +12,7 @@ This repository contains the most known software design patterns, using Java pro
 &#9745; Builder  
 &#9745; Singleton  
 &#9745; Object Pool  
-* [ ] Prototype  
+&#9745; Prototype  
 
 ## Structural patterns  
 
