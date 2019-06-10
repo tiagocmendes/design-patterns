@@ -1,0 +1,4 @@
+enum Type
+{
+    GAMING_PC, PROGRAMMING_PC
+}

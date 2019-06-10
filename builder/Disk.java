@@ -1,0 +1,4 @@
+enum Disk
+{
+    HDD, SSD
+}
