@@ -8,7 +8,7 @@ This repository contains the most known software design patterns, using Java pro
 &#9745; Factory Method  
 
 **Object**  
-* [ ] Abstract Factory  
+&#9745; Abstract Factory  
 * [ ] Builder  
 * [ ] Singleton  
 * [ ] Object Pool  
