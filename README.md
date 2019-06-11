@@ -20,7 +20,7 @@ This repository contains the most known software design patterns, using Java pro
 &#9745; Adapter  
 
 **Object**  
-* [ ] Bridge  
+&#9745; Bridge  
 * [ ] Composite  
 * [ ] Decorator  
 * [ ] Facade  

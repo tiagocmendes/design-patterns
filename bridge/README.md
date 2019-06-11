@@ -1,4 +1,4 @@
-# Adapter
+# Bridge
 
 **Structural pattern**  
 
@@ -10,7 +10,7 @@
 
 ## How to run  
 
-* On adapter directory, open a terminal and type:  
+* On bridge directory, open a terminal and type:  
 ```console
 $ javac *.java -d bin
 $ cd bin
