@@ -17,7 +17,7 @@ This repository contains the most known software design patterns, using Java pro
 ## Structural patterns  
 
 **Class**  
-* [ ] Adapter  
+&#9745; Adapter  
 
 **Object**  
 * [ ] Bridge  
