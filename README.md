@@ -40,7 +40,7 @@ This repository contains the most known software design patterns, using Java pro
 &#9745; State  
 &#9745; Strategy  
 &#9745; Template Method  
-* [ ] Visitor  
+&#9745; Visitor  
 
 ## References  
 
