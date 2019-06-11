@@ -36,7 +36,7 @@ This repository contains the most known software design patterns, using Java pro
 * [ ] Mediator  
 * [ ] Memento  
 * [ ] Null Object  
-* [ ] Observer  
+&#9745; Observer  
 * [ ] State  
 * [ ] Strategy  
 * [ ] Template Method  
